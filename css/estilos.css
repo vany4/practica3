@@ -1,0 +1,29 @@
+.contenedor a{ /*selector combinado*/
+    text-decoration: none; /*elimina el subrayado*/
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h2{
+    color: gold;
+}
+
+p{
+    font-size: 18px;
+    color: indigo;
+}
+
+h3{
+    color: darkviolet;
+    text-align: center;
+}
+
+.contenedor2 p{
+    color: chocolate;
+}
+.contenedor2 a{
+    color: rgb(93, 0, 199);
+    text-decoration: none;
+}
+
